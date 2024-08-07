@@ -1,6 +1,6 @@
 PROMPT:
 
-Classify the following issue as "bug", "enhancement", "question" or "other" and rate your classification confidence and issue understandability in range 0 - 100. Your answer should only include:
+Classify the following issue as "bug", "enhancement", "question" or "other" and rate your classification confidence and issue understandability in range 0 - 100. Your answer should only include:]\n
 Classification: your classification answer
 Prediction Confidence: your level of confidence
 Issue Understandability: level of understandability
